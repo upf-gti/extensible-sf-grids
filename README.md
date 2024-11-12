@@ -1,3 +1,5 @@
+![Teaser](https://github.com/upf-gti/extensible-sf-grids/tree/main/images/teaser.png)
+
 # Extensible Spherical Fibonacci Grids
 Ricardo Marques, Christian Bouville, Kadi Bouatouch and Josep Blat
 
